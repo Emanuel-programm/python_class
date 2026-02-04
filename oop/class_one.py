@@ -67,6 +67,7 @@ class Student:
 # creating objects
 std1=Student(20,39,30)
 std2=Student(60,39,70)
+
 print(std1.average())
 print(std2.average())
 print(Student.getSchoolName())
